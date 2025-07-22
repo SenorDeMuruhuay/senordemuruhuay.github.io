@@ -1,0 +1,84 @@
+[
+  {
+    "id": "lapidas",
+    "title": "Lápidas",
+    "categoria": "lapida",
+    "filters": [
+      {
+        "id": "material-lapidas",
+        "label": "Material",
+        "dynamic": true
+      },
+      {
+        "id": "price-range-lapidas",
+        "label": "Precio",
+        "options": [
+          { "value": "all", "text": "Todos" },
+          { "value": "0-350", "text": "Hasta S/ 350" },
+          { "value": "500-600", "text": "S/ 500 - S/ 600" },
+          { "value": "1501-2000", "text": "S/ 1501 - S/ 2000" },
+          { "value": "2001-99999", "text": "Más de S/ 2000" }
+        ]
+      }
+    ]
+  },
+ {
+  "id": "tumbas",
+  "title": "Tumbas",
+  "categoria": "tumba",
+  "filters": [],
+  "customText": "Háblenos para poder explicarle más sobre los modelos y precios de las tumbas.",
+  "imagenes": [
+    "tumba/tumba1.png",
+    "tumba/tumba2.png",
+    "tumba/tumba3.png"
+  ]
+},
+  {
+    "id": "Fotos",
+    "title": "Fotos",
+    "categoria": "foto",
+    "filters": [
+      {
+        "id": "tipo-Fotos",
+        "label": "Tipo",
+        "options": [
+          { "value": "all", "text": "Todos" },
+          { "value": "Diseño", "text": "Diseño" },
+          { "value": "Restauracion", "text": "Restauracion" }
+        ]
+      },
+      {
+        "id": "price-range-Fotos",
+        "label": "Precio",
+        "options": [
+          { "value": "all", "text": "Todos" },
+          { "value": "0-10", "text": "Hasta S/ 10" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "Páginas",
+    "title": "Páginas",
+    "categoria": "páginas",
+    "filters": [
+      {
+        "id": "tipo-Páginas",
+        "label": "Tipo",
+        "options": [
+          { "value": "all", "text": "Todos" },
+          { "value": "biografia", "text": "biografia" }
+        ]
+      },
+      {
+        "id": "price-range-Páginas",
+        "label": "Precio",
+        "options": [
+          { "value": "all", "text": "Todos" },
+          { "value": "0-10", "text": "Hasta S/ 10" }
+        ]
+      }
+    ]
+  }
+]

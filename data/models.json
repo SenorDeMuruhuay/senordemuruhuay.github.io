@@ -1,0 +1,144 @@
+[
+  {
+    "nombre": "porcelanato color hueso",
+    "categoria": "lapida",
+    "material": "porcelanato",
+    "precio": 350,
+    "descripcion": "Lápida de porcelanato hueso, elegante y duradera.",
+    "imagen": "lapidas/porcelanato/350/lapida1.png"
+  },
+
+  {
+    "nombre": "porcelanato negro",
+    "categoria": "lapida",
+    "material": "porcelanato",
+    "precio": 350,
+    "descripcion": "Lápida de porcelanato negro, elegante y duradera.",
+    "imagen": "lapidas/porcelanato/350/lapida3.png"
+  },
+  {
+    "nombre": "porcelanato marron",
+    "categoria": "lapida",
+    "material": "porcelanato",
+    "precio": 350,
+    "descripcion": "Lápida de porcelanato marron, duradero y moderno",
+    "imagen": "lapidas/porcelanato/350/lapida4.png"
+  },
+  {
+    "nombre": "granito blanco",
+    "categoria": "lapida",
+    "material": "granito",
+    "precio": 600,
+    "descripcion": "Lápida de granito blanco, duradero y moderno",
+    "imagen": "lapidas/granito/600/lapida1.png"
+  },
+    {
+    "nombre": "granito negro y plomo",
+    "categoria": "lapida",
+    "material": "granito",
+    "precio": 600,
+    "descripcion": "Lápida de porcelanato blanco y negro, elegante y duradera.",
+    "imagen": "lapidas/porcelanato/350/lapida2.png"
+  },
+  {
+    "nombre": "granito melon",
+    "categoria": "lapida",
+    "material": "granito",
+    "precio": 600,
+    "descripcion": "Lápida de granito melon, preferible, duradero y moderno",
+    "imagen": "lapidas/granito/600/lapida2.png"
+  },
+  {
+    "nombre": "granito melon",
+    "categoria": "lapida",
+    "material": "granito",
+    "precio": 600,
+    "descripcion": "Lápida de granito, preferible, duradero y moderno",
+    "imagen": "lapidas/granito/600/lapida3.png"
+  },
+  {
+    "nombre": "cuarzo blanco",
+    "categoria": "lapida",
+    "material": "cuarzo",
+    "precio": 600,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/cuarzo/600/lapida1.png"
+  },
+  {
+    "nombre": "cuarzo blanco-modelo 2",
+    "categoria": "lapida",
+    "material": "cuarzo",
+    "precio": 600,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/cuarzo/600/lapida2.png"
+  },
+  {
+    "nombre": "tumba Simple Granito",
+    "categoria": "tumba",
+    "tipo": "simple",
+    "material": "granito",
+    "precio": 1800,
+    "descripcion": "tumba simple de granito, resistente y elegante.",
+    "imagen": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "nombre": "tumba Doble Mármol",
+    "categoria": "tumba",
+    "tipo": "doble",
+    "material": "mármol",
+    "precio": 3200,
+    "descripcion": "tumba doble en mármol blanco, acabado brillante.",
+    "imagen": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+  },
+   {
+    "nombre": "tumba Doble Mármol",
+    "categoria": "tumba",
+    "tipo": "doble",
+    "material": "mármol",
+    "precio": 3200,
+    "descripcion": "tumba doble en mármol blanco, acabado brillante.",
+    "imagen": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "nombre": "Rústica Piedra",
+    "material": "piedra",
+    "precio": 1100,
+    "descripcion": "Piedra tallada a mano, diseño tradicional.",
+    "imagen": "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=400&q=80"
+  },
+   {
+  "nombre": "Diseño de Fotos",
+  "categoria": "foto",
+  "tipo": "Diseño",
+  "precio": 5,
+  "descripcion": "Foto diseñado.",
+  "imagen": "fotos/foto2.png"
+},
+  {
+  "nombre": "Restauracion de Fotos",
+  "categoria": "foto",
+  "tipo": "Restauracion",
+  "precio": 5,
+  "descripcion": "Foto diseñado.",
+  "imagen": "fotos/foto1.png"
+},
+   {
+  "nombre": "Biografia-forma-libro",
+  "categoria": "páginas",
+  "tipo": "biografia",
+  "material": "temática de libro(incluye musica)",
+  "precio": 10,
+  "descripcion": "Pagina en forma de libro.",
+  "imagen": "pagina/pagina1.png"
+},
+   {
+  "nombre": "Biografia-elegante-cielo",
+  "categoria": "páginas",
+  "tipo": "biografia",
+  "material": "temática de cielo(incluye musica)",
+  "precio": 10,
+  "descripcion": "Foto familiar en piedra.",
+  "imagen": "pagina/pagina2.png"
+}
+
+]
