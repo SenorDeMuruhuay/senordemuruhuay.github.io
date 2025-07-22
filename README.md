@@ -1,2 +1,0 @@
-# senordemuruhuay.github.io
-a
