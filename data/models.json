@@ -73,6 +73,95 @@
     "imagen": "lapidas/cuarzo/600/lapida2.png"
   },
   {
+    "nombre": "Marmol-imperios",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol1.png"
+  },
+    {
+    "nombre": "Marmol-imperios",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol2.png"
+  },
+    {
+    "nombre": "Marmol-imperios",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol3.png"
+  },
+    {
+    "nombre": "Marmol-imperios",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol4.png"
+  },
+  {
+    "nombre": "Lapida-enchape",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol11.png"
+  },
+      {
+    "nombre": "Marmol-imperios",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol5.png"
+  },
+      {
+    "nombre": "Marmol-imperios",
+    "categoria": "lapida",
+    "material": "marmol",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol6.png"
+  },
+        {
+    "nombre": "Lapida-enchape",
+    "categoria": "lapida",
+    "material": "enchape",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol7.png"
+  },
+          {
+    "nombre": "Lapida-enchape",
+    "categoria": "lapida",
+    "material": "enchape",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol8.png"
+  },
+
+          {
+    "nombre": "Lapida-enchape",
+    "categoria": "lapida",
+    "material": "enchape",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol9.png"
+  },
+          {
+    "nombre": "Lapida-enchape",
+    "categoria": "lapida",
+    "material": "enchape",
+    "precio": 0,
+    "descripcion": "Lápida de cuarzo, preferible, duradero y moderno",
+    "imagen": "lapidas/marmol/marmol10.png"
+  },
+  {
     "nombre": "tumba Simple Granito",
     "categoria": "tumba",
     "tipo": "simple",
@@ -106,21 +195,37 @@
     "descripcion": "Piedra tallada a mano, diseño tradicional.",
     "imagen": "https://images.unsplash.com/photo-1465101178521-c1a9136a3b99?auto=format&fit=crop&w=400&q=80"
   },
-   {
-  "nombre": "Diseño de Fotos",
+  {
+  "nombre": "Placas arenadas",
   "categoria": "foto",
-  "tipo": "Diseño",
-  "precio": 5,
+  "tipo": "placas",
+  "precio": 0,
   "descripcion": "Foto diseñado.",
-  "imagen": "fotos/foto2.png"
+  "imagen": "fotos/foto3.png"
 },
   {
-  "nombre": "Restauracion de Fotos",
+  "nombre": "Placas arenadas",
   "categoria": "foto",
-  "tipo": "Restauracion",
-  "precio": 5,
+  "tipo": "placas",
+  "precio": 0,
   "descripcion": "Foto diseñado.",
-  "imagen": "fotos/foto1.png"
+  "imagen": "fotos/foto4.png"
+},
+  {
+  "nombre": "Mayólica Quemada desde 60 x 60",
+  "categoria": "foto",
+  "tipo": "Mayólica quemada",
+  "precio": 550,
+  "descripcion": "Foto diseñado.",
+  "imagen": "fotos/foto5.png"
+},
+  {
+  "nombre": "Mayólica Quemada desde 60 x 60",
+  "categoria": "foto",
+  "tipo": "Mayólica quemada",
+  "precio": 550,
+  "descripcion": "Foto diseñado.",
+  "imagen": "fotos/foto6.png"
 },
    {
   "nombre": "Biografia-forma-libro",

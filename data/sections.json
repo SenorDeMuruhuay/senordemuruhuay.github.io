@@ -16,8 +16,7 @@
           { "value": "all", "text": "Todos" },
           { "value": "0-350", "text": "Hasta S/ 350" },
           { "value": "500-600", "text": "S/ 500 - S/ 600" },
-          { "value": "1501-2000", "text": "S/ 1501 - S/ 2000" },
-          { "value": "2001-99999", "text": "Más de S/ 2000" }
+          { "value": "0-0", "text": "los precios varian" }
         ]
       }
     ]
@@ -44,8 +43,8 @@
         "label": "Tipo",
         "options": [
           { "value": "all", "text": "Todos" },
-          { "value": "Diseño", "text": "Diseño" },
-          { "value": "Restauracion", "text": "Restauracion" }
+          { "value": "placas", "text": "Placas" },
+          { "value": "Mayólica quemada", "text": "Mayólica quemada" }
         ]
       },
       {
@@ -53,7 +52,7 @@
         "label": "Precio",
         "options": [
           { "value": "all", "text": "Todos" },
-          { "value": "0-10", "text": "Hasta S/ 10" }
+          { "value": "0-550", "text": "desde 550 a más" }
         ]
       }
     ]
